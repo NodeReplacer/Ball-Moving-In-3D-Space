@@ -31,7 +31,7 @@ InsideBoxOneGravBox involves using a single gravity source to do the same as abo
 
 Layered Planets has two spheres one inside the other. The player can jump from the inside ball onto the gravity of the outer ball and back. It's easier seen than explained.
 
-MainScene was the very first scene and is utterly obsolete. It was of a time when moving was just setting the velocity to whatever instead of working with acceleration.
+MainScene was the very first scene and is utterly obsolete. It was of a time when moving was just setting the velocity instead of manipulating acceleration.
 
 MovingPlatforms was made to make sure that the ball moved properly on platforms (because I messed with friction)
 
