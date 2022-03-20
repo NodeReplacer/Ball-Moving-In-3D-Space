@@ -7,7 +7,7 @@ WASD is movement. Relative to the camera.
 
 IJKL control the camera movement.
 
-Space is jump. Underwater space is ascend
+Space is jump. While underwater Space makes you ascend
 
 X is descend while underwater.
 
