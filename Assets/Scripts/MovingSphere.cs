@@ -425,7 +425,7 @@ public class MovingSphere : MonoBehaviour {
     
     //OnCollisionExit is not the best way to track if we're on the ground because
     //If we touch a wall and stop touching it we will have exited a collision right there.
-    //We're still touching the ground by OnCollisionEnter doesn't check for active collisions
+    //We're still touching the ground but OnCollisionEnter doesn't check for active collisions
     //only if a collision has been ACTIVATED.
     void OnCollisionStay (Collision collision) {
 		//onGround = true;
@@ -573,8 +573,7 @@ public class MovingSphere : MonoBehaviour {
 			return false;
 		}
         //We can make a raycast without sticking one on permanently.
-        if (!Physics.Raycast(body.position, -upAxis, out RaycastHit hit,
-        probeDistance, probeMask, QueryTriggerInteraction.Ignore)) {
+        if (!Physics.Raycast(body.position, -upAxis, out RaycastHit hit, probeDistance, probeMask, QueryTriggerInteraction.Ignore)) {
 			return false;
 		}
         //hit vector includes the normal of the surface hit.
