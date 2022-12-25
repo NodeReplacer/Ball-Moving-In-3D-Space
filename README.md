@@ -1,6 +1,8 @@
 # Moving Ball With Complex Gravity
 A variety of scenes made with help from a tutorial about moving in 3D space.
 
+REMINDER: None of these objects are being affected by Unity's gravity engine. They are instead being controlled programatically by me. Therefore, there will be bugs.
+
 Controls for the ball:
 
 WASD is movement. Relative to the camera.
