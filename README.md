@@ -21,6 +21,12 @@ There are a lot of scenes and they are listed below, but they're there mostly to
 
 ___________________________________________________________________________________________________________________________________________________________________________
 
+There are already releases covering the most complex demonstrations but there are multiple scenes in the source code.
+
+The releases involve the Water, Multiple Gravities, Multiple Planet Gravities, Layered Planets, and Switches and Acceleration Panels.
+
+Below is a list of all of the scenes.
+
 AccelZonesAndWhatnot - This creates a variety of zones that engage in behaviours. There are varieties in the behaviour but the first one was to change the acceleration of the ball in the zone. At a strong enough acceleration it becomes a bounce pad. 
 
 Climbing is self explanatory, but the orange blocks indicate a "no-climbing" object
