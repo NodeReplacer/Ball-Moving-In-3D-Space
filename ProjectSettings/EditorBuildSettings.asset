@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Moving Platforms.unity
+    guid: b645693ad58f90c40b85866a7bb7029c
+  - enabled: 0
+    path: Assets/Scenes/Multiple Gravity.unity
+    guid: 746f7c682d2e63944b73c6c9c943d3be
+  - enabled: 1
+    path: Assets/Scenes/Sphere Gravity.unity
+    guid: e0404d00040823748afcdc820d834396
+  - enabled: 0
+    path: Assets/Scenes/OrbitCamera.unity
+    guid: d1f0118018e7bb648b67a621ee55f33d
+  - enabled: 0
+    path: Assets/Scenes/Layered Planets.unity
+    guid: 71aef0efa30976c4496bc341eb6349f6
+  - enabled: 0
+    path: Assets/Scenes/AccelPanelsAndWhatnot.unity
+    guid: 9316d733abee85848828c9383b23df88
+  - enabled: 0
+    path: Assets/Scenes/Water.unity
+    guid: 504e49bfff7284755bb6ca676b8e21bb
   m_configObjects: {}

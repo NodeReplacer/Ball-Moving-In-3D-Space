@@ -36950,7 +36950,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5550109422501064911, guid: a4420a70a96892849bc2c329addcc705, type: 3}
       propertyPath: waterDrag
-      value: 1
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 5550109422501064911, guid: a4420a70a96892849bc2c329addcc705, type: 3}
       propertyPath: maxGroundAngle
@@ -36966,7 +36966,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5550109422501064911, guid: a4420a70a96892849bc2c329addcc705, type: 3}
       propertyPath: maxAirAcceleration
-      value: 5
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 5550109422501064914, guid: a4420a70a96892849bc2c329addcc705, type: 3}
       propertyPath: m_Name

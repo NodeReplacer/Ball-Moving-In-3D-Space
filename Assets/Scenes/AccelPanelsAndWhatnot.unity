@@ -319,7 +319,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh26352
+  m_Name: pb_Mesh34190
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -2942,7 +2942,7 @@ PrefabInstance:
       objectReference: {fileID: 116749792}
     - target: {fileID: 5550109422501064911, guid: a4420a70a96892849bc2c329addcc705, type: 3}
       propertyPath: maxAirAcceleration
-      value: 5
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 5550109422501064914, guid: a4420a70a96892849bc2c329addcc705, type: 3}
       propertyPath: m_Name
@@ -3018,7 +3018,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh26268
+  m_Name: pb_Mesh34108
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -3182,7 +3182,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh26328
+  m_Name: pb_Mesh34168
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2

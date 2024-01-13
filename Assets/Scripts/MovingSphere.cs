@@ -341,7 +341,7 @@ public class MovingSphere : MonoBehaviour {
         //we are swimming,
         //we are on the ground,
         //we have snapped to the ground,
-        //we are stuck in a crevasse.
+        //we are stuck in a crevasse or are otherwise touching a steep surface (including walls)
 		if (CheckClimbing() || CheckSwimming() || OnGround || SnapToGround() || CheckSteepContacts()) {
             stepsSinceLastGrounded = 0;
 			//We need to revisit air jumping. It used to always be assumed
